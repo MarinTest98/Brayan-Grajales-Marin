@@ -6,10 +6,10 @@
 
 <ul dir="auto">
 
-<li>Postman</li>
-<li>Jira</li>
 <li>Selenium</li>
 <li>Cygwin</li>
+<li>Postman</li>
+<li>Jira</li>
 <li>TestRail</li>
 <li>CI/CD</li>
 <li>AWS, Azure</li>
