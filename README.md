@@ -22,7 +22,33 @@
    <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg' width='30'/>  <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg' width='30'/>
 </p>
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+	current_edu = "St. Mary's Group of Institutions"
+	hobbies = [
+				'Drawing',
+				'Watch Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Bogotá_Colombia()
+	
+	def Ambitions():
+		Deepen testing languages()
+		cybersecurity()
+		FinishMyNovel()
+      Exercise()
+      swimming()
+		# Assume 10 more awesome ambitions here  ;)
 
+## Current Works
+ * I am currently working on 🔭 improving **my English language.** and working to polish my skills in automation.*
 
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/1PnhZJIhXQF8-jQOZLTSOZjn69ZCp5HBK/view?usp=sharing)
 
 
