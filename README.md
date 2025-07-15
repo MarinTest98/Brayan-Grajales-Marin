@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="Awesome Matrix Code" align="right" style="max-width: 200%; display: inline-block;" data-target="animated-image.originalImage">
 
-[![Linkedin Badge](https://img.shields.io/badge/-MarinTest777-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-marin-qatester)](www.linkedin.com/in/brayan-marin-qatester) [![Gmail Badge](https://img.shields.io/badge/-grajalesmarinbrayan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=grajalesmarinbrayan@gmail.com)](grajalesmarinbrayan@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-MarinTest98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-marin-qatester)](www.linkedin.com/in/brayan-marin-qatester) [![Gmail Badge](https://img.shields.io/badge/-grajalesmarinbrayan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=grajalesmarinbrayan@gmail.com)](grajalesmarinbrayan@gmail.com) 
 
 <p>
 	Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
