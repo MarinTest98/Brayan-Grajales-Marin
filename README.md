@@ -41,11 +41,13 @@
 		Deepen testing languages()
 		cybersecurity()
 		FinishMyNovel()
-      Exercise()
-      swimming()
-		# Assume 10 more awesome ambitions here  ;)
+ 		Exercise()
+      		swimming()
+		Perform Music()
+		
+		
 
-## Current Works
+## Working
  * I am currently working on 🔭 improving **my English language.** and working to polish my skills in automation.*
 
 ## Other Stuff
